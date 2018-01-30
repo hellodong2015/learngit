@@ -2,3 +2,5 @@ github update
 github update
 
 2018-01-30 update here
+https://github.com/hellodong2015/learngit/blob/master/test1/test2/test3.txt
+E:\项目\git_test\https\test1\test2
